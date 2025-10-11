@@ -95,7 +95,7 @@
   </a>
 
  <a href="https://www.kali.org" target="_blank" rel="noreferrer" title="Kali Linux">
-    <img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" alt="kali-linux" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali-linux" width="40" height="40"/>
   </a>
   
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer" title="Burp Suite">
@@ -107,7 +107,7 @@
   </a>
 
   <a href="https://nmap.org" target="_blank" rel="noreferrer" title="Nmap">
-    <img src="https://cdn.simpleicons.org/nmap" alt="nmap" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" alt="nmap" width="40" height="40"/>
   </a>
 
   <a href="https://www.wireshark.org" target="_blank" rel="noreferrer" title="Wireshark">
@@ -117,9 +117,7 @@
    <a href="https://owasp.org/www-project-threat-dragon/" target="_blank" rel="noreferrer" title="OWASP Threat Dragon">
     <img src="https://cdn.simpleicons.org/owasp" alt="owasp-threat-dragon" width="40" height="40"/>
   </a>
-  <a href="https://threagile.io/" target="_blank" rel="noreferrer" title="Threagile">
-    <img src="https://raw.githubusercontent.com/Threagile/threagile/main/docs/logo/threagile-logo.svg" alt="threagile" width="40" height="40"/>
-  </a>
+
   
 </p>
 
